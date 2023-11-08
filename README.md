@@ -7,6 +7,9 @@ GIT Practice on Amazon Linux Server
 ![image](https://github.com/palliboina/samplegit/assets/106667810/5a9408f3-761f-4b3f-abcd-27ec7a23376c)
 ![image](https://github.com/palliboina/samplegit/assets/106667810/4a13a3b0-98d0-4117-ad1a-87058e85c8dc)
 
+# .gitignore
+![image](https://github.com/palliboina/samplegit/assets/106667810/2997d042-d51b-4661-9ab8-e1efde706041)
+
 
 
 ![WhatsApp Image 2023-11-08 at 22 03 08_e523978b](https://github.com/palliboina/samplegit/assets/106667810/c7d7bc9e-874c-4dd2-ae1a-81475dcf7b32)
